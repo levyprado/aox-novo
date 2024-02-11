@@ -1,0 +1,37 @@
+Log created: 2024-02-11 15:40:41
+Type: import
+[2024-02-11 15:40:41][notice]Start importing
+[2024-02-11 15:40:41][notice]Prepare to retrieve file info, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_export_page.zip
+[2024-02-11 15:40:41][notice]Retrieving file info is completed.
+[2024-02-11 15:40:41][notice]Prepare to extract, file name: wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]The file extracton is completed, file name: wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]Prepare to extract, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_export_page.zip
+[2024-02-11 15:40:41][notice]The file extracton is completed, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_export_page.zip
+[2024-02-11 15:40:41][notice]Prepare import, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]Analyze the imported file, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]The file analysis is completed, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]Start importing categories.
+[2024-02-11 15:40:41][notice]Categories import is completed.
+[2024-02-11 15:40:41][notice]Start importing tags.
+[2024-02-11 15:40:41][notice]Tags import is completed.
+[2024-02-11 15:40:41][notice]Start importing terms.
+[2024-02-11 15:40:41][notice]Terms import is completed.
+[2024-02-11 15:40:41][notice]Start importing posts.
+[2024-02-11 15:40:41][notice]Post id: 62
+[2024-02-11 15:40:41][notice]Post id: 30
+[2024-02-11 15:40:41][notice]Post id: 69
+[2024-02-11 15:40:41][notice]Post id: 70
+[2024-02-11 15:40:41][notice]Post id: 71
+[2024-02-11 15:40:41][notice]Post id: 202
+[2024-02-11 15:40:41][notice]Posts import is completed.
+[2024-02-11 15:40:41][notice]Import task is completed, file name: C:\xampp\htdocs\aox-novo/wp-content\wpvividbackups\ImportandExport\wpvivid-65c9147fed7eb_2024-02-11-18-40_page.xml
+[2024-02-11 15:40:41][notice]The original domain name: http://aox-novo.local
+[2024-02-11 15:40:41][notice]The current domain name: http://localhost/aox-novo
+[2024-02-11 15:40:41][notice]Start replacing domain name.
+[2024-02-11 15:40:41][notice]Post ID 30 is not changed.
+[2024-02-11 15:40:41][notice]Post ID 62 is changed.
+[2024-02-11 15:40:41][notice]Post ID 69 is not changed.
+[2024-02-11 15:40:41][notice]Post ID 70 is not changed.
+[2024-02-11 15:40:41][notice]Post ID 71 is not changed.
+[2024-02-11 15:40:41][notice]Post ID 202 is not changed.
+[2024-02-11 15:40:41][notice]Import task succeeded.
