@@ -10,7 +10,7 @@
 <channel>
 	<title>AOX Solar</title>
 	<atom:link href="https://aoxsolar.com.br/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aoxsolar.com.br</link>
+	<link>https://aoxsolar.com.br/</link>
 	<description>Reduza até 95% da sua conta de luz!</description>
 	<lastBuildDate>Sun, 11 Feb 2024 22:36:43 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>https://aoxsolar.com.br/wp-content/uploads/2024/02/logo.png</url>
 	<title>AOX Solar</title>
-	<link>https://aoxsolar.com.br</link>
+	<link>https://aoxsolar.com.br/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
